@@ -1,4 +1,4 @@
-# TA Interview Exercise - Deep Learning (GradML CS6923)
+# TA Interview Exercise - Deep Learning (CS-GY 6953/ECE-GY 7123)
 
 ## 📋 Overview
 
