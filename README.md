@@ -18,7 +18,7 @@ Choose **ONE** of the following topics to implement from scratch:
    - Compare with at least one variant (additive/multiplicative)
 
 2. **Custom Autograd System**
-   - Build automatic differentiation engine
+   - Build an automatic differentiation engine
    - Support: add, multiply, matmul, ReLU, mean
    - Implement backward passes for each
    - Train a 2-layer network on a toy problem
@@ -158,8 +158,8 @@ your-github-username-ta-interview/
 
 - **Start Time**: When you accept the GitHub Classroom assignment
 - **Duration**: 72 hours from acceptance
-- **Late Policy**: No late submissions accepted
-- **Questions**: Email ta-interviews@gradml.com
+- **Late Policy**: *No late submissions accepted*
+- **Questions**: Use Slack
 
 ## 🤝 Academic Integrity
 
