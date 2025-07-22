@@ -44,7 +44,7 @@ Choose **ONE** of the following topics to implement from scratch:
 6. **Modern Regularization Method**
    - Choose ONE: MixUp, CutMix, or DropBlock
    - Implement the augmentation strategy
-   - Integration into training loop
+   - Integration into the training loop
    - Show effect on generalization
 
 ### Part 2: Teaching Materials (30% of time)
@@ -179,10 +179,10 @@ your-github-username-ta-interview/
 
 ## 📧 Contact
 
-- Technical questions: ta-interviews@gradml.com
-- Urgent issues: Post in the course Slack/Discord
+- Technical questions: Post in Slack 
+- Urgent issues: Post in the course Slack
 
 Good luck! We're excited to see your work and learn about your teaching approach.
 
 ---
-*GradML CS6923 - Teaching Assistant Selection*
+*Grad Deep Learning - Teaching Assistant Selection*
