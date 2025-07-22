@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "Repository Structure",
+      "setup": "",
+      "run": "test -f src/implementation.py && test -f tests/test_implementation.py && test -f SUBMISSION.md && test -d teaching",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "Dependencies Installation",
+      "setup": "pip install -r requirements.txt",
+      "run": "python -c 'import torch; import numpy; import pytest; print(\"Dependencies OK\")'",
+      "input": "",
+      "output": "Dependencies OK",
+      "comparison": "included",
+      "timeout": 60,
+      "points": 5
+    },
+    {
+      "name": "Code Imports",
+      "setup": "",
+      "run": "python -c 'import sys; sys.path.insert(0, \".\"); from src.implementation import *; print(\"Import successful\")'",
+      "input": "",
+      "output": "Import successful",
+      "comparison": "included",
+      "timeout": 30,
+      "points": 10
+    },
+    {
+      "name": "Submission Info",
+      "setup": "",
+      "run": "grep -E '(Topic Selected:|Time Breakdown:|Key Design Decisions:)' SUBMISSION.md",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    }
+  ]
+}
